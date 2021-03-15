@@ -1,0 +1,21 @@
+#container{
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 350px;
+}
+.header{
+    margin-top: 50px;
+    color:rgb(92, 138, 47);
+    text-align: center;
+    border: 2px black solid;
+    padding: 10px
+}
+h3{
+    text-decoration: underline;
+}
+.subheader{
+    color:darkcyan;
+    text-align: center;
+    border: 2px black solid;
+    margin-top: 20px;
+}
